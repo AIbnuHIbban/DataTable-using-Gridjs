@@ -1,0 +1,11 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background:#F7F7F7
+}
+.gridjs-pagination .gridjs-pages button{
+    padding: 10px 15px;
+}
+.gridjs-sort{
+    outline: none;
+    border: none;
+}
